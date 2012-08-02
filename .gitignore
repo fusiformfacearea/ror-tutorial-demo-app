@@ -12,6 +12,7 @@
 doc/api
 doc/app
 tmp/*
+/._redcar
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
