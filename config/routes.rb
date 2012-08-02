@@ -1,6 +1,6 @@
 DemoApp::Application.routes.draw do
   resources :microposts
-
+# so this does a bunch of stuff- it sets up a bunch of routes
   resources :users
 
   # The priority is based upon order of creation:
